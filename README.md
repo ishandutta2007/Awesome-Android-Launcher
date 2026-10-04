@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Android-Launcher/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Awesome-Awesome?style=flat" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Android-Launcher/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Awesome-Awesome?style=flat" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Android-Launcher/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Awesome-Awesome?style=flat" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Android-Launcher/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Awesome-Awesome?style=flat" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -72,11 +72,11 @@ Below is a detailed breakdown of top commercial Android launchers sorted by **Co
 
 ## 🔓 Open-Source GitHub Projects 🐙
 
-The open-source Android launcher ecosystem provides privacy-first, ad-free, and customizable home screen alternatives. Open-source repositories below are sorted by **GitHub Star Count** (descending).
+The open-source Android launcher ecosystem provides privacy-first, ad-free, and customizable home screen alternatives. Open-source repositories below are sorted by **GitHub Stars_Count** (descending).
 
 ### 📱 Pixel-Style & Highly Customizable Launchers
 
-| Repository 📦 | Star Count ⭐ | License 📜 | Highlights & Features ⚡ |
+| Repository 📦 | Stars_Count ⭐ | License 📜 | Highlights & Features ⚡ |
 | :--- | :--- | :--- | :--- |
 | **[Lawnchair](https://github.com/LawnchairLauncher/lawnchair)** | [<img src="https://img.shields.io/github/stars/LawnchairLauncher/lawnchair?style=social&color=white" alt="Lawnchair Stars"/>](https://github.com/LawnchairLauncher/lawnchair/stargazers) | Apache-2.0 | **Leading Pixel Launcher alternative.** Built on AOSP Launcher3 with Material You dynamic color theming, At a Glance widget (Smartspacer integration), Nova Launcher backup import, app drawer folders, and QuickSwitch recents integration. |
 | **[Neo Launcher](https://github.com/NeoApplications/Neo-Launcher)** | [<img src="https://img.shields.io/github/stars/NeoApplications/Neo-Launcher?style=social&color=white" alt="Neo Launcher Stars"/>](https://github.com/NeoApplications/Neo-Launcher/stargazers) | GPL-3.0 | Modern FOSS launcher built on Launcher3 with high customizability, icon pack blending, notification badges, gesture support, and privacy guard features. |
@@ -84,7 +84,7 @@ The open-source Android launcher ecosystem provides privacy-first, ad-free, and 
 
 ### 🌿 Minimalist & Digital Wellbeing Launchers
 
-| Repository 📦 | Star Count ⭐ | License 📜 | Highlights & Features ⚡ |
+| Repository 📦 | Stars_Count ⭐ | License 📜 | Highlights & Features ⚡ |
 | :--- | :--- | :--- | :--- |
 | **[KISS Launcher](https://github.com/Neamar/KISS)** | [<img src="https://img.shields.io/github/stars/Neamar/KISS?style=social&color=white" alt="KISS Launcher Stars"/>](https://github.com/Neamar/KISS/stargazers) | MIT | **Search-first minimal launcher.** Type 1–2 letters to query apps, contacts, device settings, and web searches instantly. Extremely low memory footprint and near-zero battery usage. |
 | **[Olauncher](https://github.com/tanujnotes/Olauncher)** | [<img src="https://img.shields.io/github/stars/tanujnotes/Olauncher?style=social&color=white" alt="Olauncher Stars"/>](https://github.com/tanujnotes/Olauncher/stargazers) | GPL-3.0 | **Text-only minimalist launcher.** Clean text home screen showing clock, date, and 4–8 favorite text app shortcuts. Swipe up for quick text search drawer and app hiding options to reduce screen addiction. |
@@ -101,7 +101,7 @@ Contributions are welcome! If you know of an awesome commercial launcher or open
 
 1. Fork this repository.
 2. Add your entry to `README.md` in the appropriate category table.
-3. Ensure accurate details: name, website/repo link, star badge, pricing model, license, and factual 1–2 sentence description.
+3. Ensure accurate details: name, website/repo link, Stars_Badge, pricing model, license, and factual 1–2 sentence description.
 4. Submit a Pull Request (PR) with a clear title and description.
 
 ---
